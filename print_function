@@ -1,5 +1,16 @@
-
+#print function
+print function by default supports 5 arguments
+1. Value
+2. Sep
+3. End
+4. File
+5. Flush
 print("Welcome to Python Programming")
 
 #with separator
 print(1,2,3,4,5,6,7, sep="#")
+
+#with end
+
+print(1,2,3,4,5,6,7,end="#");print("hello world")
+
